@@ -4,7 +4,7 @@ def my_each array
   while i < = 4
     array.my_each_collection do |i|
       put "#{i}"
-    
+
 end # put argument(s) here
   # code here
 end
